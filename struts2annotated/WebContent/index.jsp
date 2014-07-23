@@ -4,4 +4,4 @@
     <s:textfield name="name" label="Name" />  
     <s:submit />  
     </s:form>  
- 
+  <s:textfield name="add" label="address" />  
